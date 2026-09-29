@@ -1,0 +1,12 @@
+Formatting notes for Customer Purchase Intention Prediction System report.
+
+Key formatting requirements:
+1. Chapter opening uses centered uppercase chapter label (e.g., 'CHAPTER 1') followed by centered uppercase chapter title (e.g., 'EXECUTIVE SUMMARY')
+2. Chapter 1 begins with formal introductory paragraph describing internship period, project title, institution, and objective
+3. Section numbering format uses 1.1, 1.2, 2.1, 2.2 hierarchical numbering
+4. Chapter 1 structure includes 'Learning Objectives' and 'Outcomes Achieved' with formal academic bullet points
+5. Chapter 2 structure includes 'Introduction of the Organization', 'Vision, Mission, and Values', 'Policy', 'Organizational Structure', and 'Roles and Responsibilities'
+6. Body text in Times New Roman style with justified alignment, bold subsection headings
+7. Table of Contents: centered uppercase heading, numbered chapters with dotted leaders and right-aligned page numbers
+8. Subsections indented with deeper indentation for third-level headings
+9. Professional formatting with proper spacing and page breaks between chapters
